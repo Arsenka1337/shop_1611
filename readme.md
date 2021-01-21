@@ -24,7 +24,17 @@ create
 ```
 -m venv venv
 ```
-activare
+activate
 ```
 venv\scripts\activate
 ```
+
+## start server
+
+go to dir of project 
+'''
+cd shop
+'''
+'''
+python manage.py runserver
+'''
