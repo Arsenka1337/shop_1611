@@ -21,20 +21,17 @@ git push -u origin main
 ## venv create
 create
 
-```
--m venv venv
-```
+```-m venv venv```
 activate
-```
-venv\scripts\activate
-```
+
+```venv\scripts\activate```
 
 ## start server
 
 go to dir of project 
-'''
-cd shop
-'''
-'''
-python manage.py runserver
-'''
+
+```cd shop```
+
+run server
+
+```python manage.py runserver```
